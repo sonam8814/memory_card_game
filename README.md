@@ -16,3 +16,9 @@ How to Play
 - If they match, they stay face-up.
 - If they don't match, they flip back after a short delay.
 - Continue until all cards are matched!
+
+Technologies Used
+
+- HTML5: Structure and layout.
+- CSS3: Styling and responsiveness.
+- JavaScript: Game logic (card flipping, matching, score tracking).
