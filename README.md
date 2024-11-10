@@ -10,4 +10,9 @@ A simple memory card game built with HTML, CSS, and JavaScript. Match pairs of c
 - Restart the game at any time.
 - Randomized cards with each restart.
 
+How to Play
 
+- Click on two cards to flip them over.
+- If they match, they stay face-up.
+- If they don't match, they flip back after a short delay.
+- Continue until all cards are matched!
